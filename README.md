@@ -1,11 +1,24 @@
 ## Hi there 👋
 
-I'm Ravleen. A senior in Data Science @ Purdue University graduating in December 2025.
+I'm **Ravleen**, a senior majoring in Data Science at Purdue University, graduating in **December 2025**.
 
-- I’m currently working on research with Trustworthy Software Ecosystems Lab, focusing on Data Science in Software Supply Chain Security, and am a Data Science Intern at DrFirst.
-- I’m currently learning all I can about AI - I believe the best way to learn is by doing, so I am working on Travel Airport Assistant currently.
-- I’m looking for full-time jobs in Data Science/ Data Engineering / ML
-- How to reach me: ravleen1002@gmail.com / https://www.linkedin.com/in/ravleenkchhabra/
-- Fun fact: I am currently completing my 4th internship and love working in the corporate! I enjoy working with Data and seeing the large-scale impact it has.
+🚀 Currently:
+- Conducting research with the [Trustworthy Software Ecosystems Lab](https://example.com) on **Software Supply Chain Security**.
+- Interning at **DrFirst** on the Patient Solutions team.
+- Building a **Travel Airport Assistant** chatbot using Retrieval-Augmented Generation (RAG) and LangChain.
+
+🧠 Learning:
+- Everything I can about **AI, Generative Models, and Prompt Engineering** — because the best way to learn is by doing.
+
+🎯 Looking for:
+- Full-time roles in **Data Science**, **Data Engineering**, or **ML** starting in January 2026!
+
+📫 How to reach me:
+- Email: [ravleen1002@gmail.com](mailto:ravleen1002@gmail.com)
+- LinkedIn: [linkedin.com/in/ravleenkchhabra](https://www.linkedin.com/in/ravleenkchhabra)
+
+✨ Fun fact:
+I’m currently completing my **4th internship** and love seeing how data drives large-scale impact in the real world.
 
 
+[![Ravleen's GitHub stats](https://github-readme-stats.vercel.app/api?username=RavleenKaur-C)](https://github.com/anuraghazra/github-readme-stats)
