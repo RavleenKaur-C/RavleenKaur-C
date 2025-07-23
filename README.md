@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 I'm Ravleen. A senior in Data Science @ Purdue University graduating in December 2025.
 
 - I’m currently working on research with Trustworthy Software Ecosystems Lab, focusing on Data Science in Software Supply Chain Security, and am a Data Science Intern at DrFirst.
