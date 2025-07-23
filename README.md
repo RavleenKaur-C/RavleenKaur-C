@@ -19,6 +19,3 @@ I'm **Ravleen**, a senior majoring in Data Science at Purdue University, graduat
 
 ✨ Fun fact:
 I’m currently completing my **4th internship** and love seeing how data drives large-scale impact in the real world.
-
-
-[![Ravleen's GitHub stats](https://github-readme-stats.vercel.app/api?username=RavleenKaur-C)](https://github.com/anuraghazra/github-readme-stats)
