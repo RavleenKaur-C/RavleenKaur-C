@@ -5,7 +5,9 @@ I'm **Ravleen**, a senior majoring in Data Science at Purdue University, graduat
 🚀 Currently:
 - Conducting research with the [Trustworthy Software Ecosystems Lab](https://example.com) on **Software Supply Chain Security**.
 - Interning at **DrFirst** on the Patient Solutions team.
+- Building a **First Draft Ambient Agent** that completes incomplete drafts of emails, turns bullet points into a full proposal for Notion and more.
 - Building a **Travel Airport Assistant** chatbot using Retrieval-Augmented Generation (RAG) and LangChain.
+- 
 
 🧠 Learning:
 - Everything I can about **AI, Generative Models, and Prompt Engineering** — because the best way to learn is by doing.
