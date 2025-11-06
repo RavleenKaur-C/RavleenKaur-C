@@ -13,7 +13,7 @@ I'm **Ravleen**, a senior majoring in Data Science at Purdue University, graduat
 
 🎯 Looking for:
 - Full-time roles in **Data Science**, **Data Engineering**, or **ML** starting in January 2026!
-- I also love working at the intersection and **AI** and Product**
+- I also love working at the intersection and **AI** and **Product**
 
 📫 How to reach me:
 - Email: [ravleen1002@gmail.com](mailto:ravleen1002@gmail.com)
