@@ -20,4 +20,4 @@ I'm **Ravleen**, a senior majoring in Data Science at Purdue University, graduat
 - LinkedIn: [linkedin.com/in/ravleenkchhabra](https://www.linkedin.com/in/ravleenkchhabra)
 
 ✨ Fun fact:
-I have completed **4th internships** and love seeing how data drives large-scale impact in the real world.
+I have completed **4 internships** and love seeing how data drives large-scale impact in the real world.
